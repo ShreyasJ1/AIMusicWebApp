@@ -1,5 +1,5 @@
 .header {
-     font-size:25px !important;
+    font-size:25px !important;
     width: 100%;
     margin: 0px;
 }
@@ -13,3 +13,9 @@
 body {
     background-size: cover;
 }
+
+canvas {
+    border-radius: 20px;
+}
+
+
